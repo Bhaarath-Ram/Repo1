@@ -1,0 +1,1 @@
+{"version":3,"file":"formatter.js","names":["sap","ui","define","serialCount","aSerials","iCount","Array","isArray","length"],"sources":["formatter-dbg.js"],"mappings":"AAAAA,IAAIC,GAAGC,OAAO,GAAI,WACd,aAEA,MAAM,CACFC,YAAa,SAAUC,GACnB,IAAIC,EAAUD,GAAYE,MAAMC,QAAQH,GAAaA,EAASI,OAAS,EACvE,MAAO,KAAOH,EAAS,GAE3B,EAER","ignoreList":[]}

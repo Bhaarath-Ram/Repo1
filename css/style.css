@@ -1,0 +1,31 @@
+/* Enter your custom styles here */
+
+.barcodeScannerButtonWithZebraEB {
+	position: absolute !important;
+	margin-top: 0rem;
+	/* margin-top: 0rem; */
+	margin-right: -2rem;
+	z-index: 2;
+	right: 2rem;
+}
+
+.barcodeScannerButtonWithZebraEB .sapMBtnInner {
+	background-image: none;
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.barcodeScannerButtonWithZebraEBSerial {
+	position: absolute !important;
+	margin-top: 0rem;
+	/* margin-top: 0rem; */
+	margin-right: -1rem;
+	z-index: 2;
+	right: 2rem;
+}
+
+.barcodeScannerButtonWithZebraEBSerial .sapMBtnInner {
+	background-image: none;
+	background-color: transparent;
+	border-color: transparent;
+}

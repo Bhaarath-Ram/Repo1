@@ -1,0 +1,2 @@
+sap.ui.define(["sap/ui/core/UIComponent","sap/ui/Device","leco/productionorderconfirmation/model/models"],function(e,i,o){"use strict";return e.extend("leco.productionorderconfirmation.Component",{metadata:{manifest:"json"},init:function(){e.prototype.init.apply(this,arguments);this.getRouter().initialize();this.setModel(o.createDeviceModel(),"device")}})});
+//# sourceMappingURL=Component.js.map
